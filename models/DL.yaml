@@ -1,0 +1,5 @@
+train: ./train/train/images
+val: ./train/valid/images
+
+nc: 5
+names: ['DL Number', 'Name', 'DOB', 'Valid Till', 'Issued on']

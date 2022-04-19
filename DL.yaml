@@ -1,0 +1,5 @@
+train: ./train/train/images
+val: ./train/valid/images
+
+nc: 5
+names: ['address', 'dob', 'ln', 'name', 'sex']
